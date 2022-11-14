@@ -30,9 +30,7 @@ För att få mergea in ändringar från denna branch in till main så öppnar vi
 <img src="assets/pull_request.png" width = 400>
 
 ---
-## Merging
+## Merge
 
-Detta ska skapa en konflikt!!
-
-
+Efter pull request är det viktigt att varje person kör en pull till sin main branch och pull till sin egna branch.
 
