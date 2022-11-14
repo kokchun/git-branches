@@ -29,5 +29,10 @@ För att få mergea in ändringar från denna branch in till main så öppnar vi
 
 <img src="assets/pull_request.png" width = 400>
 
+---
+## Merging
+
+Detta ska skapa en konflikt!!
+
 
 
